@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://github.com/AbdelrahmanBayoumi/Azkar-App-Test/releases/download/1.3.0/">
-  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x64.exe" newVersion="1.3.0" newMediaFileId="60" fileSize="82694144" md5Sum="9d97f92448cc44f8a22354c289f2744b" sha256Sum="d654fa53423d5087a49a32678a6c7cf6272a38a9c5e9ff76e4cc39d8ce28321a" bundledJre="windows-amd64-1.8.0_271.tar.gz" archive="false" singleBundle="false">
+<updateDescriptor baseUrl="https://github.com/AbdelrahmanBayoumi/Azkar-App-Test/releases/download/1.2.10/">
+  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x64.exe" newVersion="1.2.10" newMediaFileId="60" fileSize="82691584" md5Sum="e0acb04bbb4cd8c334b31e5eedf779eb" sha256Sum="7fbf262ab4b3b85355fe69aa227f26b9752fa039adcc949744cea31cf811ffd7" bundledJre="windows-amd64-1.8.0_271.tar.gz" archive="false" singleBundle="false">
     <comment language="en">■ الميزات الجديدة:&#xD;
 &#xD;
 - إمكانية التبديل بين الوضع الفاتح والوضع الداكن.&#xD;
-- إضافة إمكانية رفع ملفات صوتية مخصصة للأذان (أذان)، مما يسمح للمستخدمين برفع أي ملف صوتي يرغبون به للأذان.&#xD;
+- إضافة إمكانية رفع ملفات صوتية مخصصة للأذان، مما يسمح للمستخدمين برفع أي ملف صوتي يرغبون به للأذان.&#xD;
 - إضافة زر لتفعيل/إلغاء تذكير الأذان حسب رغبة المستخدمين.&#xD;
 &#xD;
 ■ التحسينات:&#xD;
 &#xD;
 - تغيير تسمية "مواقيت أخرى" إلى "مواقيت الليل" لتوضيح الغرض.&#xD;
+- تم تفعيل جمع بعض البيانات الإحصائية افتراضيًا للمساعدة في تحسين أداء التطبيق وحل المشكلات. يمكنك إيقاف هذه الميزة في أي وقت من قسم "الخصوصية" في الإعدادات.&#xD;
 &#xD;
 ------------------&#xD;
 &#xD;
@@ -21,18 +22,20 @@
 &#xD;
 ■ Enhancements:&#xD;
 &#xD;
-- Renamed "Other Timings" to "Night Timings" for better clarity.</comment>
+- Renamed "Other Timings" to "Night Timings" for better clarity.&#xD;
+- Data collection for analytics is now enabled by default to help improve performance and resolve issues more efficiently. You can disable this feature at any time in the “Privacy” section under Settings.</comment>
   </entry>
-  <entry targetMediaFileId="792" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x32.exe" newVersion="1.3.0" newMediaFileId="792" fileSize="79129088" md5Sum="ea73085cef5e932445d3ccabc055a7d6" sha256Sum="b44f83922ed7c030d82aa33e61f1d6be6956fa0a6e0fc0a3cef518e205a8c9ee" bundledJre="windows-x86-1.8.0_271.tar.gz" archive="false" singleBundle="false">
+  <entry targetMediaFileId="792" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x32.exe" newVersion="1.2.10" newMediaFileId="792" fileSize="79126016" md5Sum="b9eec550e326b8e727433f6e318d5b8a" sha256Sum="483f2a41da10d002c611654af2674216b25775bc776dd3a6fffc6bec0219455e" bundledJre="windows-x86-1.8.0_271.tar.gz" archive="false" singleBundle="false">
     <comment language="en">■ الميزات الجديدة:&#xD;
 &#xD;
 - إمكانية التبديل بين الوضع الفاتح والوضع الداكن.&#xD;
-- إضافة إمكانية رفع ملفات صوتية مخصصة للأذان (أذان)، مما يسمح للمستخدمين برفع أي ملف صوتي يرغبون به للأذان.&#xD;
+- إضافة إمكانية رفع ملفات صوتية مخصصة للأذان، مما يسمح للمستخدمين برفع أي ملف صوتي يرغبون به للأذان.&#xD;
 - إضافة زر لتفعيل/إلغاء تذكير الأذان حسب رغبة المستخدمين.&#xD;
 &#xD;
 ■ التحسينات:&#xD;
 &#xD;
 - تغيير تسمية "مواقيت أخرى" إلى "مواقيت الليل" لتوضيح الغرض.&#xD;
+- تم تفعيل جمع بعض البيانات الإحصائية افتراضيًا للمساعدة في تحسين أداء التطبيق وحل المشكلات. يمكنك إيقاف هذه الميزة في أي وقت من قسم "الخصوصية" في الإعدادات.&#xD;
 &#xD;
 ------------------&#xD;
 &#xD;
@@ -44,6 +47,7 @@
 &#xD;
 ■ Enhancements:&#xD;
 &#xD;
-- Renamed "Other Timings" to "Night Timings" for better clarity.</comment>
+- Renamed "Other Timings" to "Night Timings" for better clarity.&#xD;
+- Data collection for analytics is now enabled by default to help improve performance and resolve issues more efficiently. You can disable this feature at any time in the “Privacy” section under Settings.</comment>
   </entry>
 </updateDescriptor>
