@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://github.com/AbdelrahmanBayoumi/Azkar-App-Test/releases/download/1.2.10/">
-  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x64.exe" newVersion="1.2.10" newMediaFileId="60" fileSize="82691584" md5Sum="e0acb04bbb4cd8c334b31e5eedf779eb" sha256Sum="7fbf262ab4b3b85355fe69aa227f26b9752fa039adcc949744cea31cf811ffd7" bundledJre="windows-amd64-1.8.0_271.tar.gz" archive="false" singleBundle="false">
+<updateDescriptor baseUrl="https://github.com/AbdelrahmanBayoumi/Azkar-App-Test/releases/download/1.2.11/">
+  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x64.exe" newVersion="1.2.11" newMediaFileId="60" fileSize="82810880" md5Sum="709eda2ea771f7fb9b5423e7cd5b8a0b" sha256Sum="3ee84dbb907c51ed2f98f247064b17cf4798c09c333767ec30b313640a6a2445" bundledJre="windows-amd64-1.8.0_271.tar.gz" archive="false" singleBundle="false">
     <comment language="en">■ الميزات الجديدة:&#xD;
 &#xD;
 - إمكانية التبديل بين الوضع الفاتح والوضع الداكن.&#xD;
+- إضافة خيار لتغيير لون الإشعارات (الخلفية والنص والحدود).&#xD;
 - إضافة إمكانية رفع ملفات صوتية مخصصة للأذان، مما يسمح للمستخدمين برفع أي ملف صوتي يرغبون به للأذان.&#xD;
 - إضافة زر لتفعيل/إلغاء تذكير الأذان حسب رغبة المستخدمين.&#xD;
 &#xD;
@@ -17,6 +18,7 @@
 ■ New Features:&#xD;
 &#xD;
 - Ability to switch between light and dark modes.&#xD;
+- Added an option to change the notification colors (background, text, and borders).&#xD;
 - Added the ability to upload custom Adhan audio files, allowing users to upload any desired Adhan audio file.&#xD;
 - Added a button to enable/disable Adhan reminders as per user preference.&#xD;
 &#xD;
@@ -25,10 +27,11 @@
 - Renamed "Other Timings" to "Night Timings" for better clarity.&#xD;
 - Data collection for analytics is now enabled by default to help improve performance and resolve issues more efficiently. You can disable this feature at any time in the “Privacy” section under Settings.</comment>
   </entry>
-  <entry targetMediaFileId="792" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x32.exe" newVersion="1.2.10" newMediaFileId="792" fileSize="79126016" md5Sum="b9eec550e326b8e727433f6e318d5b8a" sha256Sum="483f2a41da10d002c611654af2674216b25775bc776dd3a6fffc6bec0219455e" bundledJre="windows-x86-1.8.0_271.tar.gz" archive="false" singleBundle="false">
+  <entry targetMediaFileId="792" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x32.exe" newVersion="1.2.11" newMediaFileId="792" fileSize="79176192" md5Sum="f23ead236ceaf4850542bf7b85ab82f1" sha256Sum="1b8c47aaf49d2bb1b1d5ea64a3a970e20e46d199ca56c5fbef69b27f62aed250" bundledJre="windows-x86-1.8.0_271.tar.gz" archive="false" singleBundle="false">
     <comment language="en">■ الميزات الجديدة:&#xD;
 &#xD;
 - إمكانية التبديل بين الوضع الفاتح والوضع الداكن.&#xD;
+- إضافة خيار لتغيير لون الإشعارات (الخلفية والنص والحدود).&#xD;
 - إضافة إمكانية رفع ملفات صوتية مخصصة للأذان، مما يسمح للمستخدمين برفع أي ملف صوتي يرغبون به للأذان.&#xD;
 - إضافة زر لتفعيل/إلغاء تذكير الأذان حسب رغبة المستخدمين.&#xD;
 &#xD;
@@ -42,6 +45,7 @@
 ■ New Features:&#xD;
 &#xD;
 - Ability to switch between light and dark modes.&#xD;
+- Added an option to change the notification colors (background, text, and borders).&#xD;
 - Added the ability to upload custom Adhan audio files, allowing users to upload any desired Adhan audio file.&#xD;
 - Added a button to enable/disable Adhan reminders as per user preference.&#xD;
 &#xD;
