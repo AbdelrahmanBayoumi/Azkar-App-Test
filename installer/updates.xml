@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://github.com/AbdelrahmanBayoumi/Azkar-App-Test/releases/download/1.2.11/">
-  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x64.exe" newVersion="1.2.11" newMediaFileId="60" fileSize="82810880" md5Sum="709eda2ea771f7fb9b5423e7cd5b8a0b" sha256Sum="3ee84dbb907c51ed2f98f247064b17cf4798c09c333767ec30b313640a6a2445" bundledJre="windows-amd64-1.8.0_271.tar.gz" archive="false" singleBundle="false">
+<updateDescriptor baseUrl="https://github.com/AbdelrahmanBayoumi/Azkar-App/releases/download/1.2.12/">
+  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x64.exe" newVersion="1.2.12" newMediaFileId="60" fileSize="82810880" md5Sum="6eebd0a788d6a61d6349ab7450071f60" sha256Sum="d7e90c076aea01cba11a1bef7083d86425575fc31afb7fae836b64444cd440ee" bundledJre="windows-amd64-1.8.0_271.tar.gz" archive="false" singleBundle="false">
     <comment language="en">■ الميزات الجديدة:&#xD;
 &#xD;
 - إمكانية التبديل بين الوضع الفاتح والوضع الداكن.&#xD;
@@ -27,7 +27,7 @@
 - Renamed "Other Timings" to "Night Timings" for better clarity.&#xD;
 - Data collection for analytics is now enabled by default to help improve performance and resolve issues more efficiently. You can disable this feature at any time in the “Privacy” section under Settings.</comment>
   </entry>
-  <entry targetMediaFileId="792" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x32.exe" newVersion="1.2.11" newMediaFileId="792" fileSize="79176192" md5Sum="f23ead236ceaf4850542bf7b85ab82f1" sha256Sum="1b8c47aaf49d2bb1b1d5ea64a3a970e20e46d199ca56c5fbef69b27f62aed250" bundledJre="windows-x86-1.8.0_271.tar.gz" archive="false" singleBundle="false">
+  <entry targetMediaFileId="792" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x32.exe" newVersion="1.2.12" newMediaFileId="792" fileSize="79176192" md5Sum="4fbb0d9dd658ad78016ba98db5040ff3" sha256Sum="eaf2827a702be5b3a7962b01aa3305de6c876918430d58f874615b2b2062add9" bundledJre="windows-x86-1.8.0_271.tar.gz" archive="false" singleBundle="false">
     <comment language="en">■ الميزات الجديدة:&#xD;
 &#xD;
 - إمكانية التبديل بين الوضع الفاتح والوضع الداكن.&#xD;
